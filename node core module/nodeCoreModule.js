@@ -15,4 +15,4 @@ fs.readFile('paragraph.txt', (error, data) => {
     console.log(data.toString());
 });
 
-console.log('this is after');
+// console.log('this is after');
